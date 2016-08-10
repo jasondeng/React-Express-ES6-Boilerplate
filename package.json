@@ -1,7 +1,7 @@
 {
   "name": "React-Node-Express-Babel-Webpack-ES6 Boilerplate",
   "version": "1.0.0",
-  "description": "Starter Project from React, Node, Express, Babel, Webpack in ES6",
+  "description": "Starter Project for React, Node, Express, Babel, Webpack in ES6",
   "main": "server/index.js",
   "scripts": {
     "server": "nodemon --watch server --exec babel-node -- server/index.js",
