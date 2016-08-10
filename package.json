@@ -1,5 +1,5 @@
 {
-  "name": "React-Node-Express-Babel-Webpack-ES6 Boilerplate",
+  "name": "React-Node-Express-Babel-Webpack-ES6",
   "version": "1.0.0",
   "description": "Starter Project for React, Node, Express, Babel, Webpack in ES6",
   "main": "server/index.js",
